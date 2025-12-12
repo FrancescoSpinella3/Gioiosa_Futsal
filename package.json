@@ -7,7 +7,9 @@
     "build:css": "npx tailwindcss -i src/styles/input.css -o dist/styles.css --minify",
     "watch:css": "npx tailwindcss -i src/styles/input.css -o dist/styles.css --watch",
     "serve": "npx live-server --open=./index.html",
-    "dev": "npm run watch:css"
+    "dev": "npm run watch:css",
+    "copy:assets": "npx cpy \"src/assets/**/*\" dist/assets --parents",
+    "build": "npm run build:css && npm run copy:assets"
   },
   "keywords": [],
   "author": "",
@@ -18,6 +20,7 @@
     "tailwindcss": "^4.1.18"
   },
   "devDependencies": {
+    "cpy-cli": "^6.0.0",
     "live-server": "^1.2.2"
   }
 }
