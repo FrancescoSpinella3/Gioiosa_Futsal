@@ -112,12 +112,6 @@ export function Header() {
         </div>
 
     `;
-    
-    const contacts = document.createElement('div');
-    contacts.className = "flex flex-col text-(--light-text-color)";
-
-
-    // containerContact.appendChild(contacts);
     mobileMenu.appendChild(containerContact);
 
     
