@@ -1,0 +1,293 @@
+[
+    {
+        "home": "Real Rocchenere",
+        "homeIcon": "/src/assets/images/teams/rocchenere.webp",
+        "away": "Polisportiva Gioiosa Futsal",
+        "awayIcon": "/src/assets/images/logo-polisportiva-gioiosa.webp",
+        "date": "08/10/2025",
+        "time": "20:30",
+        "league": "Serie C2",
+        "matchday": 1
+    },
+    {
+        "home": "Polisportiva Gioiosa Futsal",
+        "homeIcon": "/src/assets/images/logo-polisportiva-gioiosa.webp",
+        "away": "Mongiuffi Melia",
+        "awayIcon": "/src/assets/images/teams/mongiuffi.webp",
+        "date": "04/10/2025",
+        "time": "18:00",
+        "league": "Serie C2",
+        "matchday": 2
+    },
+    {
+        "home": "GP2 Sporting Olivarella",
+        "homeIcon": "/src/assets/images/teams/olivarella.webp",
+        "away": "Polisportiva Gioiosa Futsal",
+        "awayIcon": "/src/assets/images/logo-polisportiva-gioiosa.webp",
+        "date": "11/10/2025",
+        "time": "16:30",
+        "league": "Serie C2",
+        "matchday": 3
+    },
+    {
+        "home": "Polisportiva Gioiosa Futsal",
+        "homeIcon": "/src/assets/images/logo-polisportiva-gioiosa.webp",
+        "away": "Unime",
+        "awayIcon": "/src/assets/images/teams/unime.webp",
+        "date": "18/10/2025",
+        "time": "18:00",
+        "league": "Serie C2",
+        "matchday": 4
+    },
+    {
+        "home": "Librizzi",
+        "homeIcon": "/src/assets/images/teams/librizzi.webp",
+        "away": "Polisportiva Gioiosa Futsal",
+        "awayIcon": "/src/assets/images/logo-polisportiva-gioiosa.webp",
+        "date": "25/10/2025",
+        "time": "16:00",
+        "league": "Serie C2",
+        "matchday": 5
+    },
+    {
+        "home": "Polisportiva Gioiosa Futsal",
+        "homeIcon": "/src/assets/images/logo-polisportiva-gioiosa.webp",
+        "away": "Milazzo",
+        "awayIcon": "/src/assets/images/teams/milazzo.webp",
+        "date": "01/11/2025",
+        "time": "18:00",
+        "league": "Serie C2",
+        "matchday": 6
+    },
+    {
+        "home": "Futsal Merì",
+        "homeIcon": "/src/assets/images/teams/meri.webp",
+        "away": "Polisportiva Gioiosa Futsal",
+        "awayIcon": "/src/assets/images/logo-polisportiva-gioiosa.webp",
+        "date": "15/11/2025",
+        "time": "15:00",
+        "league": "Serie C2",
+        "matchday": 7
+    },
+    {
+        "home": "Polisportiva Gioiosa Futsal",
+        "homeIcon": "/src/assets/images/logo-polisportiva-gioiosa.webp",
+        "away": "Pro Mende Calcio",
+        "awayIcon": "/src/assets/images/teams/pro-mende.webp",
+        "date": "22/11/2025",
+        "time": "18:00",
+        "league": "Serie C2",
+        "matchday": 8
+    },
+    {
+        "home": "Mamma Mia Sport",
+        "homeIcon": "/src/assets/images/teams/mamma-mia.webp",
+        "away": "Polisportiva Gioiosa Futsal",
+        "awayIcon": "/src/assets/images/logo-polisportiva-gioiosa.webp",
+        "date": "29/11/2025",
+        "time": "16:00",
+        "league": "Serie C2",
+        "matchday": 9
+    },
+    {
+        "home": "Polisportiva Gioiosa Futsal",
+        "homeIcon": "/src/assets/images/logo-polisportiva-gioiosa.webp",
+        "away": "Atletico Himera Terme",
+        "awayIcon": "/src/assets/images/teams/terme.webp",
+        "date": "03/12/2025",
+        "time": "20:00",
+        "league": "Coppa Sicilia",
+        "matchday": 1
+
+    },
+    {
+        "home": "Polisportiva Gioiosa Futsal",
+        "homeIcon": "/src/assets/images/logo-polisportiva-gioiosa.webp",
+        "away": "Futsal Castelvecchio",
+        "awayIcon": "/src/assets/images/teams/castelvecchio.webp",
+        "date": "06/12/2025",
+        "time": "17:00",
+        "league": "Serie C2",
+        "matchday": 10
+    },
+    {
+        "home": "Borgatese S.Antonio",
+        "homeIcon": "/src/assets/images/teams/borgatese-s-antonio.webp",
+        "away": "Polisportiva Gioiosa Futsal",
+        "awayIcon": "/src/assets/images/logo-polisportiva-gioiosa.webp",
+        "date": "13/12/2025",
+        "time": "16:00",
+        "league": "Serie C2",
+        "matchday": 11
+    },
+    {
+        "home": "Polisportiva Gioiosa Futsal",
+        "homeIcon": "/src/assets/images/logo-polisportiva-gioiosa.webp",
+        "away": "OR.SA.",
+        "awayIcon": "/src/assets/images/teams/orsa.webp",
+        "date": "20/12/2025",
+        "time": "17:00",
+        "league": "Serie C2",
+        "matchday": 12
+    },
+    {
+        "home": "Libertas Zaccagnini",
+        "homeIcon": "/src/assets/images/teams/zaccagnini.webp",
+        "away": "Polisportiva Gioiosa Futsal",
+        "awayIcon": "/src/assets/images/logo-polisportiva-gioiosa.webp",
+        "date": "10/01/2026",
+        "time": "16:00",
+        "league": "Serie C2",
+        "matchday": 13
+    },
+    {
+        "home": "Polisportiva Gioiosa Futsal",
+        "homeIcon": "/src/assets/images/logo-polisportiva-gioiosa.webp",
+        "away": "Atletico Barcellona Futsal",
+        "awayIcon": "/src/assets/images/teams/atletico-barcellona.webp",
+        "date": "17/01/2026",
+        "time": "17:00",
+        "league": "Serie C2",
+        "matchday": 14
+    },
+    {
+        "home": "Polisportiva Gioiosa Futsal",
+        "homeIcon": "/src/assets/images/logo-polisportiva-gioiosa.webp",
+        "away": "Real Rocchenere",
+        "awayIcon": "/src/assets/images/teams/rocchenere.webp",
+        "date": "24/01/2026",
+        "time": "17:00",
+        "league": "Serie C2",
+        "matchday": 15
+    },
+    {
+        "home": "Mongiuffi Melia",
+        "homeIcon": "/src/assets/images/teams/mongiuffi.webp",
+        "away": "Polisportiva Gioiosa Futsal",
+        "awayIcon": "/src/assets/images/logo-polisportiva-gioiosa.webp",
+        "date": "31/01/2026",
+        "time": "15:30",
+        "league": "Serie C2",
+        "matchday": 16
+    },
+    {
+        "home": "Polisportiva Gioiosa Futsal",
+        "homeIcon": "/src/assets/images/logo-polisportiva-gioiosa.webp",
+        "away": "GP2 Sporting Olivarella",
+        "awayIcon": "/src/assets/images/teams/olivarella.webp",
+        "date": "07/02/2026",
+        "time": "17:00",
+        "league": "Serie C2",
+        "matchday": 17
+    },
+    {
+        "home": "Unime",
+        "homeIcon": "/src/assets/images/teams/unime.webp",
+        "away": "Polisportiva Gioiosa Futsal",
+        "awayIcon": "/src/assets/images/logo-polisportiva-gioiosa.webp",
+        "date": "14/02/2026",
+        "time": "15:00",
+        "league": "Serie C2",
+        "matchday": 18
+    },
+    {
+        "home": "Polisportiva Gioiosa Futsal",
+        "homeIcon": "/src/assets/images/logo-polisportiva-gioiosa.webp",
+        "away": "Librizzi",
+        "awayIcon": "/src/assets/images/teams/librizzi.webp",
+        "date": "18/02/2026",
+        "time": "17:00",
+        "league": "Serie C2",
+        "matchday": 19
+    },
+    {
+        "home": "Milazzo",
+        "homeIcon": "/src/assets/images/teams/milazzo.webp",
+        "away": "Polisportiva Gioiosa Futsal",
+        "awayIcon": "/src/assets/images/logo-polisportiva-gioiosa.webp",
+        "date": "21/02/2026",
+        "time": "17:00",
+        "league": "Serie C2",
+        "matchday": 20
+    },
+    {
+        "home": "Polisportiva Gioiosa Futsal",
+        "homeIcon": "/src/assets/images/logo-polisportiva-gioiosa.webp",
+        "away": "Futsal Merì",
+        "awayIcon": "/src/assets/images/teams/meri.webp",
+        "date": "07/03/2026",
+        "time": "17:00",
+        "league": "Serie C2",
+        "matchday": 21
+    },
+    {
+        "home": "Pro Mende Calcio",
+        "homeIcon": "/src/assets/images/teams/pro-mende.webp",
+        "away": "Polisportiva Gioiosa Futsal",
+        "awayIcon": "/src/assets/images/logo-polisportiva-gioiosa.webp",
+        "date": "15/03/2026",
+        "time": "17:00",
+        "league": "Serie C2",
+        "matchday": 22
+    },
+    {
+        "home": "Polisportiva Gioiosa Futsal",
+        "homeIcon": "/src/assets/images/logo-polisportiva-gioiosa.webp",
+        "away": "Mamma Mia Sport",
+        "awayIcon": "/src/assets/images/teams/mamma-mia.webp",
+        "date": "21/03/2026",
+        "time": "17:00",
+        "league": "Serie C2",
+        "matchday": 23
+    },
+    {
+        "home": "Futsal Castelvecchio",
+        "homeIcon": "/src/assets/images/teams/castelvecchio.webp",
+        "away": "Polisportiva Gioiosa Futsal",
+        "awayIcon": "/src/assets/images/logo-polisportiva-gioiosa.webp",
+        "date": "28/03/2026",
+        "time": "15:00",
+        "league": "Serie C2",
+        "matchday": 24
+    },
+    {
+        "home": "Polisportiva Gioiosa Futsal",
+        "homeIcon": "/src/assets/images/logo-polisportiva-gioiosa.webp",
+        "away": "Borgatese S.Antonio",
+        "awayIcon": "/src/assets/images/teams/borgatese-s-antonio.webp",
+        "date": "11/04/2026",
+        "time": "17:00",
+        "league": "Serie C2",
+        "matchday": 25
+    },
+    {
+        "home": "OR.SA.",
+        "homeIcon": "/src/assets/images/teams/orsa.webp",
+        "away": "Polisportiva Gioiosa Futsal",
+        "awayIcon": "/src/assets/images/logo-polisportiva-gioiosa.webp",
+        "date": "18/04/2026",
+        "time": "15:00",
+        "league": "Serie C2",
+        "matchday": 26
+    },
+    {
+        "home": "Polisportiva Gioiosa Futsal",
+        "homeIcon": "/src/assets/images/logo-polisportiva-gioiosa.webp",
+        "away": "Libertas Zaccagnini",
+        "awayIcon": "/src/assets/images/teams/zaccagnini.webp",
+        "date": "02/05/2026",
+        "time": "17:00",
+        "league": "Serie C2",
+        "matchday": 27
+    },
+    {
+        "home": "Atletico Barcellona Futsal",
+        "homeIcon": "/src/assets/images/teams/atletico-barcellona.webp",
+        "away": "Polisportiva Gioiosa Futsal",
+        "awayIcon": "/src/assets/images/logo-polisportiva-gioiosa.webp",
+        "date": "09/05/2026",
+        "time": "15:30",
+        "league": "Serie C2",
+        "matchday": 28
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "name" : "Benvenuti al Sud",
+        "src" : "./src/assets/images/sponsor/benvenuti-al-sud.webp"
+    },
+    {
+        "name" : "Borgo San Francesco",
+        "src" : "./src/assets/images/sponsor/borgo-san-francesco.webp"
+    },
+    {
+        "name" : "Consulta giovanile Gioisa Marea",
+        "src" : "./src/assets/images/sponsor/consulta.webp"
+    },
+    {
+        "name" : "Villa Rica",
+        "src" : "./src/assets/images/sponsor/villa-rica.webp"
+    },
+    {
+        "name" : "Zanza Beach Club",
+        "src" : "./src/assets/images/sponsor/zanza-beach.webp"
+    },
+    {
+        "name" : "Evaristo Molica Franco",
+        "src" : "./src/assets/images/sponsor/evaristo-molica-franco.webp"
+    }
+]

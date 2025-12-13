@@ -1,0 +1,22 @@
+[
+    {
+        "year": "2012",
+        "description": "La sezione calcio a 5 della Polisportiva Gioiosa nasce dalla passione di un gruppo di amici per questo sport, guidata sin da sempre dall'attuale mister Antonino Di Nardo. La squadra ha sempre disputato il campionato dilettantistico di Serie D, ottenedo sempre ottimi piazzamenti in classifica. Negli ultimi anni la società  ha ottenuto diversi risultati, come la vittoria del campionato di Serie D e la disputa del campionato di Serie C2.",
+        "img": "/src/assets/images/foto-squadra-2012.webp"
+    },
+    {
+        "year": "2021-2022",
+        "description": "La stagione 2021-22, dopo lo stop forzato dovuto alla pandemia, la squadra riesce a conquistare la storica promozione in Serie C2, vincendo il campionato di Serie D subendo una sola sconfitta in tutta la stagione.",
+        "img": "/src/assets/images/foto-squadra-21-22.webp"
+    },
+    {
+        "year": "2022-2024",
+        "description": "Riusciamo a disputare due stagioni in Serie C2. La prima, stagione 2022-23, si conclude con una salvezza ottenuta con tre gionate di anticipo. La stagione successiva, ci vede retrocedere nuovamente in Serie D dopo una stagione molto dura e combattuta fino all'ultima giornata.",
+        "img": "/src/assets/images/foto-squadra-2022.webp"
+    },
+    {
+        "year": "2024-2025",
+        "description": "La voglia di riconquisatre la Serie C2 è tanta e la squadra si impegna la massimo per raggiunegere l'obiettivo. Dopo una stagione molto combattuta ai vertici ed un piazzamento da seconda classificata, riusciamo a conquistare l'accesso diretto alla finale playoff. La squadra riesce a vincere e a riconquistare la Serie C2, dopo solo un anno di assenza.",
+        "img": "/src/assets/images/foto-vittoria-playoff-24-25.webp"
+    }
+]
