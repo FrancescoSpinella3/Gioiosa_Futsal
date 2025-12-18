@@ -11,7 +11,7 @@
     "copy:assets": "npx cpy \"src/assets/**/*\" dist/assets --parents",
     "copy:js": "npx cpy \"src/**/*.js\" dist/src --parents",
     "copy:html": "npx cpy \"*.html\" \"src/pages/**/*.html\" dist --parents",
-    "copy:data": "npx cpy \"data/**\" dist --parents",
+    "copy:data": "npx cpy \"data/**/*\" dist/data",
     "build": "npm run build:css && npm run copy:assets && npm run copy:js && npm run copy:html && npm run copy:data"
   },
   "keywords": [],
