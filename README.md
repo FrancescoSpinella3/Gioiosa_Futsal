@@ -1,7 +1,6 @@
 # Gioiosa Futsal — Sito vetrina
 
-Sito web statico per la squadra Gioiosa Futsal: presenta la rosa, la storia del club, il calendario, la classifica stagionale e gli sponsor.
-Link al sito: https://gioiosafutsal.it/
+Sito web statico per la squadra Gioiosa Futsal: presenta la rosa, la storia del club, il calendario, la classifica stagionale e gli sponsor. Link al sito: https://gioiosafutsal.it/
 
 ## Sommario
 - Descrizione del progetto
