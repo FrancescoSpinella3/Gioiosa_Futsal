@@ -6,10 +6,13 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build:css": "npx tailwindcss -i src/styles/input.css -o dist/styles.css --minify",
     "watch:css": "npx tailwindcss -i src/styles/input.css -o dist/styles.css --watch",
-    "serve": "npx live-server --open=./index.html",
+    "serve": "npx live-server dist --open=./index.html",
     "dev": "npm run watch:css",
     "copy:assets": "npx cpy \"src/assets/**/*\" dist/assets --parents",
-    "build": "npm run build:css && npm run copy:assets"
+    "copy:js": "npx cpy \"src/**/*.js\" dist/src --parents",
+    "copy:html": "npx cpy \"*.html\" \"src/pages/**/*.html\" dist --parents",
+    "copy:data": "npx cpy \"data/**/*\" dist/data",
+    "build": "npm run build:css && npm run copy:assets && npm run copy:js && npm run copy:html && npm run copy:data"
   },
   "keywords": [],
   "author": "",
