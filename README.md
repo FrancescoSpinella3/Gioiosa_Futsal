@@ -61,5 +61,11 @@ Nota: i nomi degli script possono variare; verifica il tuo `package.json` per i 
 - Per cambiare i colori o il design, modifica `styles/input.css` e la configurazione di Tailwind.
 
 ## Licenza
-Inserisci qui la licenza desiderata (es. MIT) o specifica che il progetto è privato.
+Copyright (c) 2025 Francesco Spinella
+
+Tutti i diritti riservati.
+
+Questa WebApp e tutto il relativo codice sorgente, documentazione e materiali associati
+non possono essere copiati, modificati, distribuiti, venduti o utilizzati in alcun modo senza
+il permesso scritto esplicito del detentore del copyright.
 
