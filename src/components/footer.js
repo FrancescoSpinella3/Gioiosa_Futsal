@@ -45,7 +45,7 @@ export function Footer() {
     pages.innerHTML = `
         <h2 class="text-xl font-semibold">PAGINE</h2>
         <ul>
-            <li><a href="/index.html">Home</a></li>
+            <li><a href="/">Home</a></li>
             <li><a href="/storia.html">Storia</a></li>
         </ul>
     `;

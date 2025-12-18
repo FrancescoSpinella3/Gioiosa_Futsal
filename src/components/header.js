@@ -28,7 +28,7 @@ export function Header() {
     const navLinks = document.createElement('ul');
     navLinks.className = "hidden gap-5 text-lg font-medium text-(--light-text-color) lg:flex *:relative *:after:content-[''] *:after:absolute *:after:left-0 *:after:bottom-[-34px] *:after:w-0 *:after:h-[3px] *:after:bg-white *:after:transition-all *:after:duration-300 *:hover:after:w-full *:z-10";
     navLinks.innerHTML = `
-        <li id="home"><a href="/index.html">HOME</a></li>
+        <li id="home"><a href="/">HOME</a></li>
         <li id="stagione">
             <a href="#">STAGIONE</a>
             
@@ -72,7 +72,7 @@ export function Header() {
     const mobileLinks = document.createElement('ul');
     mobileLinks.className = "mobile-links text-xl font-semibold w-full flex flex-col";
     mobileLinks.innerHTML = `
-        <li id="home-mobile"><a href="/index.html">HOME</a></li>
+        <li id="home-mobile"><a href="/">HOME</a></li>
         <li id="stagione-mobile">
             <div class="container-link flex items-center justify-between">
                 <a href="#">STAGIONE</a>
