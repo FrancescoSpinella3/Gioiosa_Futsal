@@ -17,7 +17,7 @@ export function Header() {
     const navLogo = document.createElement('a');
     navLogo.href = "/index.html#hero";
     navLogo.innerHTML = `
-        <img src="/src/assets/images/logo-nav.webp" 
+        <img src="/assets/images/logo-nav.webp" 
             alt="Logo" 
             class="h-14 w-auto"
             draggable="false">
@@ -34,19 +34,19 @@ export function Header() {
             
             <!-- Submenu -->
             <ul id="submenu" class="flex-col bg-white text-(--secondary-text-color) text-[1rem] font-medium w-48 absolute hidden z-50">
-                <li class="pl-5 py-3 border-b border-black/20"><a href="/src/pages/stagione/calendario.html">CALENDARIO</a></li>
-                <li class="pl-5 py-3"><a href="/src/pages/stagione/classifica.html">CLASSIFICA</a></li>
+                <li class="pl-5 py-3 border-b border-black/20"><a href="/stagione/calendario.html">CALENDARIO</a></li>
+                <li class="pl-5 py-3"><a href="/stagione/classifica.html">CLASSIFICA</a></li>
             </ul>
         </li>
-        <li id="storia"><a href="/src/pages/storia.html">STORIA</a></li>
-        <li id="rosa"><a href="/src/pages/rosa.html">ROSA</a></li>
+        <li id="storia"><a href="/storia.html">STORIA</a></li>
+        <li id="rosa"><a href="/rosa.html">ROSA</a></li>
     `;
     nav.appendChild(navLinks);
 
     // Logo C2
     const logoLeague = document.createElement('img');
     logoLeague.className = "h-14 w-auto hidden lg:block";
-    logoLeague.src = "/src/assets/images/logo-lega.webp"
+    logoLeague.src = "/assets/images/logo-lega.webp"
     logoLeague.alt = "Logo lega";
     logoLeague.setAttribute('draggable', 'false');
     nav.appendChild(logoLeague);
@@ -83,12 +83,12 @@ export function Header() {
 
             <!-- Submenu mobile -->
             <ul id="submenu-mobile">
-                <li class="hover:underline"><a href="/src/pages/stagione/calendario.html">CALENDARIO</a></li>
-                <li class="hover:underline"><a href="/src/pages/stagione/classifica.html">CLASSIFICA</a></li>
+                <li class="hover:underline"><a href="/stagione/calendario.html">CALENDARIO</a></li>
+                <li class="hover:underline"><a href="/stagione/classifica.html">CLASSIFICA</a></li>
             </ul>
         </li>
-        <li id="storia-mobile"><a href="/src/pages/storia.html">STORIA</a></li>
-        <li id="rosa-mobile"><a href="/src/pages/rosa.html">ROSA</a></li>
+        <li id="storia-mobile"><a href="/storia.html">STORIA</a></li>
+        <li id="rosa-mobile"><a href="/rosa.html">ROSA</a></li>
     `;
     mobileMenu.appendChild(mobileLinks)
 
@@ -134,7 +134,7 @@ export function Header() {
     const mobileLogosLeague = document.createElement('div');
     mobileLogosLeague.classList.add('absolute', 'left-5', 'bottom-30')
     mobileLogosLeague.innerHTML = `
-        <img src="/src/assets/images/logo-lega.webp"
+        <img src="/assets/images/logo-lega.webp"
             class="h-16" 
             alt="Logo lega"
             loading="lazy"

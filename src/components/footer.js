@@ -15,7 +15,7 @@ export function Footer() {
     // Logo
     const logoLink = document.createElement('a');
     const logo = document.createElement('img');
-    logo.src = "/src/assets/images/logo-polisportiva-gioiosa.webp";
+    logo.src = "/assets/images/logo-polisportiva-gioiosa.webp";
     logo.className = "h-20 w-auto";
     logo.setAttribute('loading', 'lazy');
     logo.setAttribute('draggable', 'false');
@@ -46,7 +46,7 @@ export function Footer() {
         <h2 class="text-xl font-semibold">PAGINE</h2>
         <ul>
             <li><a href="/index.html">Home</a></li>
-            <li><a href="/src/pages/storia.html">Storia</a></li>
+            <li><a href="/storia.html">Storia</a></li>
         </ul>
     `;
 
@@ -55,9 +55,9 @@ export function Footer() {
     season.innerHTML = `
         <h3 class="text-xl font-semibold">STAGIONE</h3>
         <ul>
-            <li><a href="/src/pages/stagione/calendario.html">Calendario</a></li>
-            <li><a href="/src/pages/stagione/classifica.html">Classifica</a></li>
-            <li><a href="/src/pages/rosa.html">Rosa</a></li>
+            <li><a href="/stagione/calendario.html">Calendario</a></li>
+            <li><a href="/stagione/classifica.html">Classifica</a></li>
+            <li><a href="/rosa.html">Rosa</a></li>
         </ul>
     `;
 
@@ -69,14 +69,14 @@ export function Footer() {
     conatinerLogos.className = "flex items-center";
     conatinerLogos.innerHTML = `
         <!-- LND Logo -->
-        <img src="/src/assets/images/logo_lnd.webp" 
+        <img src="/assets/images/logo_lnd.webp" 
             alt="Lega nazionale dilettanti Calcio a 5"
             loading="lazy"
             draggable="false"
             class="h-28 w-auto">
     
         <!-- Serie C2 Logo -->
-        <img src="/src/assets/images/logo-c2.webp" 
+        <img src="/assets/images/logo-c2.webp" 
             alt="Serie C2"
             loading="lazy"
             draggable="false"
