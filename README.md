@@ -6,10 +6,7 @@ Sito web statico per la squadra Gioiosa Futsal: presenta la rosa, la storia del 
 ## Sommario
 - Descrizione del progetto
 - Tecnologie usate
-- Come eseguire il progetto in locale
-- Struttura dei file
-- Come aggiornare i contenuti (file JSON)
-- Deployment e contributi
+- Contributi
 
 ## Descrizione
 Questo repository contiene il front-end di un sito vetrina per una squadra di futsal. Le pagine sono realizzate con HTML/CSS/Tailwind e JavaScript.
