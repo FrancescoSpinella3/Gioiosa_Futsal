@@ -61,8 +61,18 @@ export function Footer() {
         </ul>
     `;
 
+    const legal = document.createElement('div');
+    legal.className = "season flex flex-col gap-3";
+    legal.innerHTML = `
+        <h3 class="text-xl font-semibold">LEGALE</h3>
+        <ul>
+            <li><a href="/privacy-policy.html">Privacy Policy</a></li>
+        </ul>
+    `;
+
     navFooter.appendChild(pages);
     navFooter.appendChild(season);
+    navFooter.appendChild(legal);
 
     // Logos League
     const conatinerLogos = document.createElement('div');
