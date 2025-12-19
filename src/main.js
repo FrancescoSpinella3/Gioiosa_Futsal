@@ -1,5 +1,6 @@
 import { Footer } from "./components/footer.js";
 import { Header } from "./components/header.js";
+import { TurnUpButton } from "./components/turn-up-button.js";
 
 
 // Body style
@@ -204,6 +205,16 @@ async function renderNextMatch() {
 renderNextMatch();
 
 
+// Load turn up button component
+document.addEventListener('DOMContentLoaded', () => {
+  if (!document.querySelector('turn-up-btn')) {
+    document.body.appendChild(TurnUpButton());
+  }
+});
+
+
+
+
 // Load footer component
 document.addEventListener('DOMContentLoaded', () => {
   if (!document.querySelector('footer')) {
@@ -213,20 +224,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 
-// SHOW SCROLL TO TOP BUTTON
-const turnUpButton = document.getElementById('turn-up-btn');
-window.addEventListener('scroll', () => {
-    const scrollPosition = window.scrollY || window.pageYOffset || 0;
-    // If scroll position is greater then 300 show button
-    if (scrollPosition >= 300) {
-        turnUpButton.classList.remove('hidden');
-        turnUpButton.classList.add('flex');
-    // otherwise hide it
-    } else {
-        turnUpButton.classList.remove('flex');
-        turnUpButton.classList.add('hidden');
-    }
-});
+
+
+
+
 
 
 
