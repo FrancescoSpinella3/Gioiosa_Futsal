@@ -66,7 +66,7 @@ export function Footer() {
     legal.innerHTML = `
         <h3 class="text-xl font-semibold">LEGALE</h3>
         <ul>
-            <li><a href="/privacy-policy.html">Privacy Policy</a></li>
+            <li><a href="/privacy-policy">Privacy Policy</a></li>
         </ul>
     `;
 
