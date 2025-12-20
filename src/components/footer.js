@@ -16,6 +16,7 @@ export function Footer() {
     const logoLink = document.createElement('a');
     const logo = document.createElement('img');
     logo.src = "/assets/images/logo-polisportiva-gioiosa.webp";
+    logo.alt = "Logo Polisportiva Gioiosa"
     logo.className = "h-20 w-auto";
     logo.setAttribute('loading', 'lazy');
     logo.setAttribute('draggable', 'false');
