@@ -76,17 +76,16 @@ export function Header() {
         <li id="stagione-mobile">
             <div class="container-link flex items-center justify-between">
                 <a href="#">STAGIONE</a>
-                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-5 duration-200 ease-out">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-5 duration-400 ease-out">
                     <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
                 </svg>
             </div>
-
-            <!-- Submenu mobile -->
-            <ul id="submenu-mobile">
-                <li class="hover:underline"><a href="/stagione/calendario.html">CALENDARIO</a></li>
-                <li class="hover:underline"><a href="/stagione/classifica.html">CLASSIFICA</a></li>
-            </ul>
         </li>
+        <!-- Submenu mobile -->
+        <div id="submenu-mobile">
+            <li class="hover:underline"><a href="/stagione/calendario.html">CALENDARIO</a></li>
+            <li class="hover:underline"><a href="/stagione/classifica.html">CLASSIFICA</a></li>
+        </div>
         <li id="storia-mobile"><a href="/storia.html">STORIA</a></li>
         <li id="rosa-mobile"><a href="/rosa.html">ROSA</a></li>
     `;
@@ -242,7 +241,7 @@ export function Header() {
     const containerLink = header.querySelector('.container-link');
     const arrwIcon = containerLink.querySelector('svg');
    
-    mobileSubmenu.className = "hidden w-full flex-col text-(--light-text-color) text-lg font-medium px-4 pt-4";
+    mobileSubmenu.className = "hidden w-full flex-col bg-gray-200 text-(--secondary-text-color) text-lg font-semibold px-7 py-4 border-b border-black/30";
     
     // Submenu li delete border
     mobileSubmenuLi.forEach(li => {
