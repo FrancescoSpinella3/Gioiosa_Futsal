@@ -33,7 +33,7 @@ export function Header() {
             <a href="#">STAGIONE</a>
             
             <!-- Submenu -->
-            <ul id="submenu" class="flex-col bg-white/90 text-(--secondary-text-color) text-[1rem] font-medium w-48 absolute hidden z-50">
+            <ul id="submenu" class="flex-col bg-white text-(--secondary-text-color) text-[1rem] font-medium w-48 absolute hidden z-50">
                 <li class="pl-5 py-3 border-b border-black/20"><a href="/stagione/calendario.html">CALENDARIO</a></li>
                 <li class="pl-5 py-3"><a href="/stagione/classifica.html">CLASSIFICA</a></li>
             </ul>
