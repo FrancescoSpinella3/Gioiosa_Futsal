@@ -96,7 +96,7 @@ export function Footer() {
 
     // Copyright and social
     const containerCopyrightAndSocial = document.createElement('div');
-    containerCopyrightAndSocial.className = "copyright-social w-full flex flex-col items-center gap-5 md:flex-row md:items-start md:justify-between pt-5 border-t border-white/40 md:max-w-7xl";
+    containerCopyrightAndSocial.className = "copyright-social w-full flex flex-col items-center gap-5 md:flex-row md:items-start md:justify-between pt-5 border-t border-white/30 md:max-w-7xl";
     
     const copyright = document.createElement('p');
     copyright.textContent = "Copyright © A.S.D Polisportiva Gioiosa Futsal. Tutti i diritti riservati";
