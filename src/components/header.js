@@ -83,8 +83,8 @@ export function Header() {
         </li>
         <!-- Submenu mobile -->
         <div id="submenu-mobile">
-            <li class="hover:underline"><a href="/stagione/calendario.html">CALENDARIO</a></li>
-            <li class="hover:underline"><a href="/stagione/classifica.html">CLASSIFICA</a></li>
+            <li><a href="/stagione/calendario.html">CALENDARIO</a></li>
+            <li><a href="/stagione/classifica.html">CLASSIFICA</a></li>
         </div>
         <li id="storia-mobile"><a href="/storia.html">STORIA</a></li>
         <li id="rosa-mobile"><a href="/rosa.html">ROSA</a></li>
