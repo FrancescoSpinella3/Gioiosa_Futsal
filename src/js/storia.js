@@ -23,7 +23,7 @@ async function renderTimeLine() {
             
             boxTimeLine.innerHTML = `
                 <div class="time-line_content flex flex-col flex-1 py-5 px-0 lg:py-0 lg:px-12">
-                    <h3 class="time-line_title text-center font-bold text-2xl mb-4 text-(--main-color) xs:text-3xl lg:text-4xl lg:text-left">${slide.year}</h3>
+                    <h2 class="time-line_title text-center font-bold text-2xl mb-4 text-(--main-color) xs:text-3xl lg:text-4xl lg:text-left">${slide.year}</h2>
                     <p class="time-line_description text-[1em] p-5 leading-7 text-center text-(--secondary-text-color) xs:text-lg lg:p-0 lg:text-xl lg:text-left">${slide.description}</p>
                 </div>
                 
