@@ -23,12 +23,12 @@ async function renderMatches() {
                     <p class="time text-(--secondary-text-color)">${match.time}</p>
                 </div>
                 <div class="teams w-full flex items-center justify-between text-center gap-10">
-                    <div class="home-team w-[300px] flex flex-col items-center gap-2 lg:flex-row-reverse lg:gap-4">
+                    <div class="home-team w-75 flex flex-col items-center gap-2 lg:flex-row-reverse lg:gap-4">
                         <img src="${match.homeIcon}" alt="${match.home}" class="h-14 w-auto">
                         <p class="font-bold md:text-xl">${match.home.toUpperCase()}</p>
                     </div>
                     <p class="text-xl font-bold">VS</p>
-                    <div class="away-team w-[300px] flex flex-col items-center gap-2 lg:flex-row lg:gap-4">
+                    <div class="away-team w-75 flex flex-col items-center gap-2 lg:flex-row lg:gap-4">
                         <img src="${match.awayIcon}" alt="${match.away}" class="h-14 w-auto">
                         <p class="font-bold md:text-xl">${match.away.toUpperCase()}</p>
                     </div>
