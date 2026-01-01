@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+# Sitemap
+Sitemap: https://gioiosafutsal.it/sitemap.xml
